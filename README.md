@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Flappy Bird" src="/github/bird.jpg"/>
+    <img alt="Flappy Bird" src="/flappy_bird/github/bird.jpg"/>
 </h1>
 
 
@@ -8,7 +8,7 @@
   Projeto
 <br>
 <p align="center">
-  <img alt="Flappy Birdt" src="/github/bird-pc.png"/>
+  <img alt="Flappy Birdt" src="/flappy_bird/github/bird-pc.png"/>
 </p>
 
 ## 🚀 Tecnologias
